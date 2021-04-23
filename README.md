@@ -40,7 +40,7 @@
 ![网页图片显示](https://www.igdcc.com/4Kdongman/14480.html)
 
 # 本地图片
-![本地图片跳转](https://github.com/Wzy-Lwq/Wzy-Lwq/blob/main/chen.jpg?raw=true)
+![本地图片跳转](chen.jpg)
 
 # 列表
 -床前明月光
