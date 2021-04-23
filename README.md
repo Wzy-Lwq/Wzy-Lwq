@@ -30,7 +30,7 @@
 
 
 # 超链接
-行内式网络图片 [图片](https://www.igdcc.com/4Kdongman/14480.html) 链接  
+行内式网络图片 [图片](https://github.com/Wzy-Lwq/Wzy-Lwq/blob/main/chen.jpg) 链接  
 
 引用式网络图片 [图片][1] 链接
 
@@ -40,7 +40,7 @@
 ![网页图片显示](https://www.igdcc.com/4Kdongman/14480.html)
 
 # 本地图片
-![本地图片跳转](chen.jpg)
+![本地图片跳转](https://github.com/Wzy-Lwq/Wzy-Lwq/blob/main/chen.jpg)
 
 # 列表
 -床前明月光
